@@ -41,7 +41,7 @@ body {
 
 .description-rated .description .subtitle {
     color: hsl(303, 10%, 53%);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 500;
     line-height: 1.5rem;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .rated h2 {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .rated .rated-1 {
@@ -105,14 +105,14 @@ body {
 }
 
 .reviews h4 {
-    font-size: 12px;
+    font-size: 15px;
     color: hsl(0, 0%, 100%);
     letter-spacing: 0.2px;
 
 }
 .reviews p {
     color: hsl(333, 80%, 67%);
-    font-size: 12px;
+    font-size: 15px;
     letter-spacing: 0.2px;
 }
 
