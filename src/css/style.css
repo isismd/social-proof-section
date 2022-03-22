@@ -105,14 +105,14 @@ body {
 }
 
 .reviews h4 {
-    font-size: 15px;
+    font-size: 12px;
     color: hsl(0, 0%, 100%);
     letter-spacing: 0.2px;
 
 }
 .reviews p {
     color: hsl(333, 80%, 67%);
-    font-size: 15px;
+    font-size: 12px;
     letter-spacing: 0.2px;
 }
 
