@@ -1,6 +1,6 @@
 # Social proof section
 ![GitHub repo size](https://img.shields.io/github/repo-size/isismd/social-proof-section?color=yellow)
-![GitHub language count](https://img.shields.io/github/languages/count/isismd/social-proof-section)
+![GitHub language count](https://img.shields.io/github/languages/count/isismd/social-proof-section?color=blue)
 ![Github top language](https://img.shields.io/github/languages/top/isismd/social-proof-section?color=orange)
 ## 🎈Overview
 
